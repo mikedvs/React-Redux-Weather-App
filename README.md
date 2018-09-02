@@ -1,6 +1,8 @@
 # React/Redux Weather Application built off - ReduxSimpleStarter 
 Second Project from: [Redux](https://www.udemy.com/react-redux/)?
 
+## Lectures : 51 => 68 
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
