@@ -1,6 +1,5 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+# React/Redux Weather Application built off - ReduxSimpleStarter 
+Second Project from: [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
